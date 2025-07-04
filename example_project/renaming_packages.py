@@ -1,0 +1,2 @@
+import namespace_package
+import regular_package
