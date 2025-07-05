@@ -1,8 +1,9 @@
 # Why use `__init__.py` files?
 
-A few examples of problems that can occur by using namespace packages instead of regular packages.
+A few examples of problems that can occur by using namespace packages instead of regular
+packages.
 
-**TL;DR: Add an `__init__.py` file in every directory that you want want to import Python code from.**
+**TL;DR: Add an `__init__.py` file to every directory that you want to import Python code from, unless you intend to create a namespace package.**
 
 ## Test Coverage
 
